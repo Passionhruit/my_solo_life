@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39707126878",
+    "project_id": "sololife-bb7dd",
+    "storage_bucket": "sololife-bb7dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39707126878:android:913693d6e19e306d0cd8cf",
+        "android_client_info": {
+          "package_name": "com.example.mysololife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgdeDo5fY3eeBJIssGmEuh1Mz_gZDq2Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
